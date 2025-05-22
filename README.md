@@ -1,2 +1,1 @@
-# MyFirstRepo
-This is my first GitHub repository
+My name is Masood Khan. I'm learning Git and GitHub.
